@@ -1,0 +1,38 @@
+body{
+    padding: 100px;
+}
+
+
+.bank-title{
+    text-align: center;
+    text-transform: capitalize;
+}
+.input-aria{
+    margin-top: 50px;
+    border: 10px;
+    box-shadow: 5px 5px 10px gray;
+    padding: 30px;
+    
+
+}
+#transection-area{
+    display: none;
+}
+
+.status{
+    margin:10px 20px;
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+}
+.Deposite{
+       background-color: slateblue;
+}
+.Withdrow{
+    background-color:lightsalmon;
+
+}
+.Balance{
+    background-color:orange;
+
+}
